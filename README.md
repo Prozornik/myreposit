@@ -53,7 +53,7 @@ pip install selenium==4.32.0
 ## Структура проекта
 
 ```
-example-selenium-pycharm/
+myreposit/
 ├── algorithm.py              # Программа на Python
 ├── selenium_script.py    # Основной скрипт теста
 └── README.md                 # Документация
@@ -71,7 +71,7 @@ example-selenium-pycharm/
 
 ## Настройка ChromeDriver
 
-Убедитесь, что **ChromeDriver**:
+Убедитесь, что ChromeDriver:
 
 * установлен на вашем компьютере;
 * его версия соответствует вашей версии Google Chrome;
