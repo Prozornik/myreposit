@@ -55,7 +55,7 @@ pip install selenium==4.32.0
 ```
 myreposit/
 ├── algorithm.py              # Программа на Python
-├── selenium_script.py    # Основной скрипт теста
+├── selenium_script.py        # Основной скрипт теста
 └── README.md                 # Документация
 ```
 
